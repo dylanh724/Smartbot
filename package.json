@@ -6,6 +6,7 @@
   "description": "A simple helpful robot for your Company",
   "dependencies": {
     "hubot": ">= 2.5.1",
+    "hubot-ambush": "0.0.3",
     "hubot-asana": ">= 0.0.0",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.1.4",
