@@ -16,6 +16,5 @@
   "hubot-ambush",
   "hubot-seen",
   "hubot-asana",
-  "hubot-calculator",
-  "hubot-github-repo-event-notifier"
+  "hubot-calculator"
 ]
