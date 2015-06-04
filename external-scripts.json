@@ -8,8 +8,5 @@
   "hubot-redis-brain",
   "hubot-rules",
   "hubot-youtube",
-  "hubot-standup-alarm",
-  "hubot-google-translate",
-  "hubot-asana",
-  "hubot-calculator"
+  "hubot-standup-alarm"
 ]
