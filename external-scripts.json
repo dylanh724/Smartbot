@@ -14,5 +14,6 @@
   "hubot-seen",
   "hubot-calculator",
   "hubot-thank-you",
-  "hubot-alias"
+  "hubot-alias",
+  "hubot-rememberto"
 ]
