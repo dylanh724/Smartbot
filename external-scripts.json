@@ -11,5 +11,6 @@
   "hubot-yandex-translate",
   "hubot-asana",
   "hubot-ambush",
-  "hubot-seen"
+  "hubot-seen",
+  "hubot-calculator"
 ]
