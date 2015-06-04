@@ -10,5 +10,6 @@
   "hubot-standup-alarm",
   "hubot-yandex-translate",
   "hubot-asana",
-  "hubot-ambush"
+  "hubot-ambush",
+  "hubot-seen"
 ]
