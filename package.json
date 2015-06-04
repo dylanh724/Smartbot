@@ -9,7 +9,6 @@
     "hubot-asana": ">= 0.0.0",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.1.4",
-    "hubot-google-translate": "^0.1.0",
     "hubot-help": "^0.1.1",
     "hubot-heroku-keepalive": "0.0.4",
     "hubot-hipchat": "^2.12.0-2",
@@ -19,6 +18,7 @@
     "hubot-scripts": "^2.5.16",
     "hubot-shipit": "^0.2.0",
     "hubot-standup-alarm": "*",
+    "hubot-yandex-translate": "^1.0.3",
     "hubot-youtube": "^0.1.2"
   },
   "engines": {
