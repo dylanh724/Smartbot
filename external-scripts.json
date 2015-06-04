@@ -15,5 +15,6 @@
   "hubot-calculator",
   "hubot-thank-you",
   "hubot-alias",
-  "hubot-rememberto"
+  "hubot-rememberto",
+  "hubot-react"
 ]
