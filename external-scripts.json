@@ -12,5 +12,7 @@
   "hubot-asana",
   "hubot-ambush",
   "hubot-seen",
-  "hubot-calculator"
+  "hubot-calculator",
+  "hubot-thank-you",
+  "hubot-alias"
 ]
