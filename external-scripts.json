@@ -14,6 +14,5 @@
   "hubot-seen",
   "hubot-calculator",
   "hubot-thank-you",
-  "hubot-alias",
-  "whenisay.csx"
+  "hubot-alias"
 ]
