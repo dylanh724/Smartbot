@@ -8,5 +8,6 @@
   "hubot-rules",
   "hubot-youtube",
   "hubot-standup-alarm",
-  "hubot-yandex-translate"
+  "hubot-yandex-translate",
+  "hubot-asana"
 ]
