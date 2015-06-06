@@ -10,6 +10,7 @@
     "hubot-ambush": "0.0.3",
     "hubot-asana": "^1.0.1",
     "hubot-calculator": ">= 0.3.0",
+    "hubot-days_since": "^1.0.0",
     "hubot-diagnostics": "0.0.1",
     "hubot-googl": "^1.1.0",
     "hubot-google-images": "^0.1.4",

@@ -18,5 +18,6 @@
   "hubot-rememberto",
   "hubot-react",
   "hubot-googl",
-  "hubot-watch"
+  "hubot-watch",
+  "hubot-days_since"
 ]
