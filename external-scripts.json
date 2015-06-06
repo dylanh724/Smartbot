@@ -9,7 +9,6 @@
   "hubot-youtube",
   "hubot-standup-alarm",
   "hubot-yandex-translate",
-  "hubot-asana",
   "hubot-seen",
   "hubot-calculator",
   "hubot-thank-you",
@@ -21,5 +20,6 @@
   "hubot-days_since",
   "hubot-tell",
   "hubot-suggest",
-  "hubot-ambush"
+  "hubot-ambush",
+  "hubot-factoid"
 ]
