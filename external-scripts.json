@@ -19,5 +19,7 @@
   "hubot-googl",
   "hubot-watch",
   "hubot-days_since",
-  "hubot-tell"
+  "hubot-tell",
+  "hubot-suggest",
+  "hubot-ambush"
 ]
