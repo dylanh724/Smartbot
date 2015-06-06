@@ -10,7 +10,6 @@
   "hubot-standup-alarm",
   "hubot-yandex-translate",
   "hubot-asana",
-  "hubot-ambush",
   "hubot-seen",
   "hubot-calculator",
   "hubot-thank-you",
@@ -19,5 +18,6 @@
   "hubot-react",
   "hubot-googl",
   "hubot-watch",
-  "hubot-days_since"
+  "hubot-days_since",
+  "hubot-tell"
 ]

@@ -26,6 +26,7 @@
     "hubot-seen": "^0.2.2",
     "hubot-shipit": "^0.2.0",
     "hubot-standup-alarm": "*",
+    "hubot-tell": "^1.2.3",
     "hubot-thank-you": "0.0.3",
     "hubot-watch": "0.0.1",
     "hubot-yandex-translate": "^1.0.3",
