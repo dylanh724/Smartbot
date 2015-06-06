@@ -11,6 +11,7 @@
     "hubot-asana": "^1.0.1",
     "hubot-calculator": ">= 0.3.0",
     "hubot-diagnostics": "0.0.1",
+    "hubot-googl": "^1.1.0",
     "hubot-google-images": "^0.1.4",
     "hubot-help": "^0.1.1",
     "hubot-heroku-keepalive": "0.0.4",
