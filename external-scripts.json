@@ -20,5 +20,6 @@
   "hubot-tell",
   "hubot-suggest",
   "hubot-ambush",
-  "hubot-factoid"
+  "hubot-factoid",
+  "hubot-misname"
 ]
