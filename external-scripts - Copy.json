@@ -21,6 +21,5 @@
   "hubot-suggest",
   "hubot-ambush",
   "hubot-factoid",
-  "hubot-misname",
-  "hubot-asana"
+  "hubot-misname"
 ]
