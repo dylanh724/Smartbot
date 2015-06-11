@@ -23,5 +23,7 @@
   "hubot-factoids",
   "hubot-misname",
   "hubot-asana",
-  "hubot-group-alias"
+  "hubot-group-alias",
+  "hubot-ector",
+  "hubot-greetings"
 ]
