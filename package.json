@@ -17,6 +17,7 @@
     "hubot-factoids": "^0.2.6",
     "hubot-googl": "^1.1.0",
     "hubot-google-images": "^0.1.4",
+    "hubot-greetings": "^1.0.0",
     "hubot-group-alias": "^1.5.4",
     "hubot-help": "^0.1.1",
     "hubot-heroku-keepalive": "0.0.4",
