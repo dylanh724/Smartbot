@@ -25,5 +25,6 @@
   "hubot-asana",
   "hubot-group-alias",
   "hubot-ector",
-  "hubot-paste"
+  "hubot-paste",
+  "hubot-voting"
 ]
