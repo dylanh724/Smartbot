@@ -24,5 +24,6 @@
   "hubot-misname",
   "hubot-asana",
   "hubot-group-alias",
-  "hubot-ector"
+  "hubot-ector",
+  "hubot-paste"
 ]
