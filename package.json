@@ -36,6 +36,7 @@
     "hubot-suggest": "0.0.1",
     "hubot-tell": "^1.2.3",
     "hubot-thank-you": "0.0.3",
+    "hubot-time-me": "^1.0.0",
     "hubot-voting": "^1.0.0",
     "hubot-watch": "0.0.1",
     "hubot-yandex-translate": "^1.0.3",
