@@ -26,5 +26,6 @@
   "hubot-group-alias",
   "hubot-ector",
   "hubot-paste",
-  "hubot-voting"
+  "hubot-voting",
+  "hubot-time-me"
 ]
