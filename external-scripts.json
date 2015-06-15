@@ -27,6 +27,5 @@
   "hubot-ector",
   "hubot-paste",
   "hubot-voting",
-  "hubot-time-me",
-  "hubot-suggest"
+  "hubot-time-me"
 ]
