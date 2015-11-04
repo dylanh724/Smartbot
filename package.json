@@ -5,7 +5,7 @@
   "author": "Bob Bergman <rbergman@atlassian.com>",
   "description": "A simple helpful robot for your Company",
   "dependencies": {
-    "hubot": "^2.16.0",
+    "hubot": "^2.13.2",
     "hubot-alias": "^0.1.7",
     "hubot-ambush": "0.0.3",
     "hubot-asana": "^1.0.1",
