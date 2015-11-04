@@ -33,7 +33,6 @@
     "hubot-scripts": "^2.16.1",
     "hubot-seen": "^0.2.2",
     "hubot-shipit": "^0.2.0",
-    "hubot-slack": "^3.4.1",
     "hubot-standup-alarm": "0.0.6",
     "hubot-suggest": "0.0.1",
     "hubot-tell": "^1.2.3",
